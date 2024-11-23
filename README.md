@@ -1,5 +1,4 @@
 # App-Dev
 My first repository
-# H1
-My Favorite Movie
+# My Favorite movie
 1. Avatar
